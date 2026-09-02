@@ -1,8 +1,8 @@
-# Chapitre 2 — Les Composants
+# Chapitre 2 — Les Caractéristiques
 
-Au cœur du système d’action, **les Composants représentent les réservoirs d'énergie et les piliers d'existence** de ton personnage. Ils ne mesurent pas un savoir-faire ou un apprentissage technique — cela, ce sont les Domaines —, mais plutôt **la ressource fondamentale** qu'il engage lorsqu'il tente de plier la réalité à sa volonté.
+Au cœur du système d’action, **les Caractéristiques représentent les réservoirs d'énergie et les piliers d'existence** de ton personnage. Ils ne mesurent pas un savoir-faire ou un apprentissage technique — cela, ce sont les Domaines —, mais plutôt **la ressource fondamentale** qu'il engage lorsqu'il tente de plier la réalité à sa volonté.
 
-Chaque personnage est défini par trois Composants. Qu'il s'agisse d'une confrontation physique dans une ruelle poisseuse, d'une intrusion logique au cœur d'un sous-réseau corpo, ou d'une lutte d'influence dans les méandres virtuels de l'Eïdos, tout jet de dés commence par le choix du Composant adéquat.
+Chaque personnage est défini par trois Caractéristiques. Qu'il s'agisse d'une confrontation physique dans une ruelle poisseuse, d'une intrusion logique au cœur d'un sous-réseau corpo, ou d'une lutte d'influence dans les méandres virtuels de l'Eïdos, tout jet de dés commence par le choix de la Caractéristique adéquate.
 
 ---
 
