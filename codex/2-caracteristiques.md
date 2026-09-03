@@ -2,7 +2,7 @@
 
 Au cœur du système d’action, **les Caractéristiques représentent les réservoirs d'énergie et les piliers d'existence** de ton personnage. Ils ne mesurent pas un savoir-faire ou un apprentissage technique — cela, ce sont les Domaines —, mais plutôt **la ressource fondamentale** qu'il engage lorsqu'il tente de plier la réalité à sa volonté.
 
-Chaque personnage est défini par trois Caractéristiques. Qu'il s'agisse d'une confrontation physique dans une ruelle poisseuse, d'une intrusion logique au cœur d'un sous-réseau corpo, ou d'une lutte d'influence dans les méandres virtuels de l'Eïdos, tout jet de dés commence par le choix de la Caractéristique adéquate.
+Chaque personnage est défini par quatre Caractéristiques. Qu'il s'agisse d'une confrontation physique dans une ruelle poisseuse, d'une intrusion logique au cœur d'un sous-réseau corpo, ou d'une lutte d'influence dans les méandres virtuels de l'Eïdos, tout jet de dés commence par le choix de la Caractéristique adéquate.
 
 ---
 
@@ -48,6 +48,21 @@ On utilise ce Composant dès qu'il s'agit d'imposer sa volonté, de résister à
 
 ---
 
+## ⚡ OVERCLOCK / HARDWARE — La Matrice de Surcharge
+
+**Le Méta-Composant du sous-cadencement, du réflexe ultime et de l'imprévu.**
+
+⚡ **OVERCLOCK / HARDWARE** incarne la tolérance aux stress critiques, la surtension des puces et la capacité d'un agent à forcer les spécifications d'usine de sa propre réalité. Contrairement aux autres Composants qui financent des actions narratives directes, l'Overclock est la ressource tactique de l'imprévu, utilisée pour corriger une défaillance ou reprogrammer l'aléatoire en plein vol.
+
+### Quand l'engager ?
+On utilise cette réserve lorsque le système flanche, qu'une arme s'enraye ou qu'un jet de dés menace d'envoyer l'escouade au tapis. C'est la poussée d'adrénaline de la dernière chance, le court-circuit délibéré d'un implant pour doubler la cadence de tir, ou la mémoire tampon d'urgence qui absorbe un échec critique avant le crash.
+
+* **Sous la forme de la Surcharge :** Relance de dés (*Reroll Step*), ajustement d'urgence des jetons sur le Plateau de Squad, déviation des échecs critiques.
+* **Sous la forme du Hardware :** Coprocesseurs d'appoint, régulateurs de tension bioniques, tampons de mémoire physique, soupapes de sécurité cybernétiques.
+
+---
+
+
 ## ⚙️ En Jeu : Le Choix du Composant
 
 Dans la majorité des situations, **le joueur est libre de proposer le Composant qu'il souhaite engager**, en fonction de la manière dont il décrit son action à la table :
@@ -57,5 +72,6 @@ Dans la majorité des situations, **le joueur est libre de proposer le Composant
 > * **En 🔵 ESPRIT / SOFTWARE :** Le personnage cherche une faille logique dans le code du pare-feu et écrit un script sur mesure.
 > * **En 🔴 CHAIR / CHROME :** Le personnage utilise un overclocking de ses puces neuronales pour taper du code à une vitesse physique surhumaine avant la fermeture du port.
 > * **En 🟢 ÂME / OPERATING SYSTEM :** Le personnage force le terminal à reconnaître son empreinte système par la pure puissance d'autorité de sa matrice personnelle.
+> * **En ⚡ OVERCLOCK / HARDWARE :** Le personnage brûle un point de sa réserve tampon pour ignorer une contre-mesure d'urgence et forcer la relance d'un jet d'intrusion manqué.
 
 **La contrainte du MJ :** Le Meneur de Jeu conserve le droit d'imposer un Composant précis si la réalité de la situation ne laisse aucune alternative narrative (par exemple, *🔴 CHAIR / CHROME* pour résister à une explosion physique, ou *🔵 ESPRIT / SOFTWARE* pour décoder un langage binaire inconnu).
