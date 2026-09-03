@@ -10,7 +10,7 @@ Chaque Métier apporte :
 ---
 
 ## ⚔️ 1. LE VETERAN
-*L'expert de la violence applied, de la balistique et de la survie en milieu hostile.*
+*L'expert de la violence appliquée, de la balistique et de la survie en milieu hostile.*
 
 * **Entrainement :** $+1$ **AGIR** ou **RÉSISTER**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **VIGUEUR**
