@@ -1,12 +1,12 @@
 # Chapitre 3 — Les Actions
 
-Si les Composants représentent *ce que tu engages* et les Domaines *ce que tu connais*, **les Actions définissent la manière dont tu te projetais dans la réalité**. Elles constituent les quatre seuls verbes d'interaction de ton personnage avec son environnement. 
+Si les Composants représentent *ce que tu engages* et les Compétences *ce que tu connais*, **les Actions définissent la manière dont tu te projetais dans la réalité**. Elles constituent les quatre seuls verbes d'interaction de ton personnage avec son environnement. 
 
 Peu importe la complexité d'une situation, toute tentative d'interaction — qu'elle soit physique, numérique ou sociale — s'exprime obligatoirement à travers l'une de ces quatre Actions fondamentales.
 
 ---
 
-## 👁️ PERCEVOIR — L'Action d'Analyse
+## 👁️ PERCEVOIR
 
 **Observer, détecter, analyser et décoder.**
 
@@ -19,7 +19,7 @@ PERCEVOIR est l'Action de la prise d'information. Elle ne s'applique pas seuleme
 
 ---
 
-## ⚡ AGIR — L'Action d'Exécution
+## ⚡ AGIR
 
 **Manipuler, intervenir, frapper et accomplir.**
 
@@ -32,7 +32,7 @@ AGIR est l'Action de la transformation directe. C'est le verbe du mouvement, de 
 
 ---
 
-## 🗣️ AFFECTER — L'Action d'Impulsion
+## 🗣️ AFFECTER
 
 **Imposer, convaincre, perturber et plier.**
 
@@ -45,7 +45,7 @@ AFFECTER est l'Action de l'influence. Elle vise à altérer le comportement, l'�
 
 ---
 
-## 🛡️ RÉSISTER — L'Action de Préservation
+## 🛡️ RÉSISTER
 
 **Encaisser, préserver, défendre et maintenir.**
 
