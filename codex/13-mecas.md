@@ -71,3 +71,15 @@ Si le lancer de dés ne génère **pas assez de succès** pour remplir le quota 
 
 * **Réparation :** Les medkits humains sont inefficaces. Restaurer l'Intégrité Structurelle (PV) exige des pièces détachées et des tests du Domaine *Technique / Bricolage*.
 * **Kernel Panic :** Si la jauge de Stress d'Étincelle est saturée par le piratage, les paradoxes moraux ou les surchauffes, l'unité ne devient pas folle : l'Étincelle se fige et la machine entre en **Kernel Panic** (boucles d'actions répétitives, verrouillage moteur ou redémarrage forcé en plein combat).
+
+--- 
+"" 🔧 6. Maintenance, Pièces & Réparation : L'Ingé plutôt que le Doc
+Un Méca n'a pas d'organes, pas de sang et pas de système immunitaire. Face aux dégâts matériels, la médecine biologique est totalement inutile : un Médikit ne réparera jamais une durite sectionnée ou un bus de données fondu.
+
+Le Rôle du Technologue / Ingé : Sur le terrain ou dans un atelier clandestin, la restauration de la jauge d'Intégrité Structurelle (PV) et des systèmes endommagés relève exclusivement de la compétence d'un Ingénieur, Mécano ou Netrunner.
+
+Compétence requis : Tous les jets de réparation utilisent le Domaine Technique / Bricolage (soutenu par le KERNEL ou le SOFTWARE du réparateur), couplés à un kit d'outillage lourd (fer à souder, bus de diagnostic, connecteurs universels).
+
+Consommables de Réparation (Les « Spare Parts ») : Là où un humain consomme des pansements ou des stimulants, le Méca nécessite des Pièces Détachées (alliages de rechange, câblage supraconducteur, pâte thermique haute performance). Sans pièces compatibles en réserve, un jet de réparation réussi ne permet que du colmatage temporaire (restauration partielle ou suppression des malus de châssis).
+
+Réparation d'Urgence en Combat : Un Ingé peut tenter un Patch à Chaud en plein affrontement (1 action) pour souder à la hâte un blindage ou dérouter un circuit brûlé, restaurant immédiatement quelques PV au Méca avant que les composants ne fondent définitivement à la fin de la scène.
