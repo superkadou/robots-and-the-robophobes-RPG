@@ -1,11 +1,11 @@
-# Chapitre 5 — Les Archétypes
+# Chapitre 5 — Les Métiers
 
-Dans ce monde de chrome, de données et de sang, ton **Archétype** ne définit pas une trajectoire rigide, mais ton **métier d'origine** et ta signature tactique sur le terrain. 
+Dans ce monde de chrome, de données et de sang, ton **Métier** ne définit pas une trajectoire rigide, mais ton **entrainement d'origine** et ta signature tactique sur le terrain. 
 
-Chaque Archétype apporte :
+Chaque Métier apporte :
 * **1 Entrainement :** $+1$ permanent sur une Action (peut dépasser le plafond de création de 3).
 * **2 Expertises :** $+1$ permanent dans deux Compétences (peut dépasser le plafond de création de 2).
-* **1 Capacité spéciale :** La description de la technique exclusive de l'Archétype.
+* **1 Capacité spéciale :** La description de la technique exclusive du Métier.
 
 ---
 
@@ -14,7 +14,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **RÉSISTER**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **VIGUEUR**
-* **Capacité Spéciale :** X fois par session de jeu, le
+* **Capacité Spéciale :** X fois par session de jeu, le vétéran 
 
 ---
 
@@ -23,7 +23,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **RÉSISTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **CYBER** et $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** X fois par session de jeu, le
+* **Capacité Spéciale :** X fois par session de jeu, le doc 
 
 ---
 
@@ -32,7 +32,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **AFFECTER**
 * **Expertise :** $+1$ **NET** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, le
+* **Capacité Spéciale :** X fois par session de jeu, le hacker 
 
 ---
 
@@ -41,7 +41,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Expertise :** $+1$ **TECHNIQUE** et $+1$ **MÉCANIQUE**
-* **Capacité Spéciale :** X fois par session de jeu, le 
+* **Capacité Spéciale :** X fois par session de jeu, l'ingénieur 
 ---
 
 ## 🚗 5. LE CONTREBANDIER
@@ -57,7 +57,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, le 
+* **Capacité Spéciale :** X fois par session de jeu, l'indic 
 ---
 
 ## 🎸 7. L'INFLUENCEUR
@@ -65,7 +65,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, le 
+* **Capacité Spéciale :** X fois par session de jeu, l'influenceur 
   
 ---
 
@@ -74,7 +74,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **RÉSISTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **SOCIAL**
-* **Capacité Spéciale :** X fois par session de jeu, le Bureaucrate peux faire jouer ses Faveurs et obtenir des ressources dont le groupe a besoin : matériel, credits non marques, planque discrète, corrompre une personne/organisme etc
+* **Capacité Spéciale :** X fois par session de jeu, le bureaucrate peux faire jouer ses Faveurs et obtenir des ressources dont le groupe a besoin : matériel, credits non marques, planque discrète, corrompre une personne/organisme etc
 
 ---
 
@@ -83,7 +83,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AFFECTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** X fois par session de jeu, le 
+* **Capacité Spéciale :** X fois par session de jeu, le reporter 
   
 ---
 
@@ -92,4 +92,4 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AGIR**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, le
+* **Capacité Spéciale :** X fois par session de jeu, le gendarme 
