@@ -12,12 +12,12 @@ Vous disposez d'un capital de **6 points** à répartir librement dans vos trois
 
 ---
 
-## 🎭 2. Les Domaines de Compétence & L'Archétype
+## 🎭 2. Les Actions, Compétences & le Métier
 Pour constituer votre réserve de dés de base lors d'une action ($\text{Caractéristique} + \text{Action} + \text{Compétence}$), vos compétences se répartissent ainsi :
 * **Point d'Action de Base :** Par défaut, tout personnage commence avec **1 point d'Action**.
 * **Budget de Domaines :** Vous disposez d'un capital de **6 points** à répartir dans vos Domaines de compétences
 
-### Choix de l'Archétype (Spécialisation)
+### Choix du Métier
 Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son entrainement et ses deux compétences de prédilection, cimentant votre place dans l'escouade :
 * **Le Vétéran**
 * **Le Contrebandier**
