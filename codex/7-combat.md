@@ -1,4 +1,4 @@
-# Chapitre 7 — Le Combat & la Dynamique de Groupe
+# Chapitre 7 — Le Combat
 
 Le combat dans « Chrome & Néon » n'est pas une suite de duels individuels, mais une épreuve collective gérée sur un **plateau de combat** central. La survie de l'équipe dépend de sa capacité à générer, répartir et consommer les jetons de ressources sous la pression de la rue.
 
