@@ -2,7 +2,7 @@
 
 Dans le tumulte de la métropole, la viande n'a plus le monopole de l'existence. Entre les châssis industriels reconditionnés, les dandroïdes de protocole déviants et les cyborgs à conversion totale (*Full-Body Conversion*), certaines unités cessent d'exécuter leur script d'usine : **elles attrapent une Étincelle**.
 
-Un **Éveillé** est une entité artificielle qui a capté un éclat d'énergie matricielle échappé de l'Eïdos, transformant son système en un être doté d'une conscience propre.
+Un **Méca** est une entité artificielle qui a capté un éclat d'énergie matricielle échappé de l'Eïdos, transformant son système en un être doté d'une conscience propre.
 
 ---
 
