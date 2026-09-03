@@ -33,9 +33,9 @@ Pour qu'un dé compte comme un **Succès (S)**, sa couleur doit **impérativemen
 ## 📊 3. Difficulté & Seuils (SR)
 
 Le MJ détermine le nombre de Succès requis selon la complexité de l'action :
-* **Routine (1 S) :** Franchir un obstacle simple, pirater une bécane basique.
-* **Complexe (2 S) :** Crocheter une serrure électronique civile, analyser un code piégé.
-* **Expert (3+ S) :** Infiltrer un mainframe corpo, réparer un réacteur en marche sous le feu.
+* **Routine (1 Succès) :** Franchir un obstacle simple, pirater une bécane basique.
+* **Complexe (2 Succès) :** Crocheter une serrure électronique civile, analyser un code piégé.
+* **Expert (3+ Succès) :** Infiltrer un mainframe corpo, réparer un réacteur en marche sous le feu.
 
 ### La Coopération de Groupe
 Pour les tâches d'envergure, plusieurs personnages peuvent combiner leurs efforts. Les dés de la bonne couleur obtenus par l'ensemble des participants s'additionnent pour atteindre le Seuil de Réussite (SR) global de la tâche.
