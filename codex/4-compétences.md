@@ -57,7 +57,7 @@ Il existe dix groupes de Compétences distincts. Lorsqu'une action cible un suje
 * **Sujets couverts :** Négociation commerciale, persuasion, duperie, escroquerie, intimidation, commandement tactique, codes de la rue et réseaux de contacts.
 * **Usage typique :** Soutirer des informations à un barman, négocier la prime d'un contrat, bluffer un agent de sécurité à un checkpoint, donner des ordres clairs dans le chaos.
 
-### 10. ÉSOTÉRIQUE
+### 10. Mysticisme
 **Les phénomènes marginaux, l'inconnu et la matrice Eïdos.**
-* **Sujets couverts :** Anomalies spéculatives de l'Eïdos, protocoles de l'Ombre, sous-routines d'émancipation d'I.A., mythes urbains technologiques, phénomènes psychiques marginaux.
+* **Sujets couverts :** Anomalies spéculatives de l'Eïdos, Culte de la machine, protocoles de l'Ombre, sous-routines d'émancipation d'I.A., mythes urbains technologiques, phénomènes marginaux.
 * **Usage typique :** Repérer la signature d'une I.A. émancipée, décoder des signaux spéculatifs dans le Réseau, résister à une distorsion de la réalité virtuelle, comprendre un rituel numérique hétérodoxe.
