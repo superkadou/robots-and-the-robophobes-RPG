@@ -6,9 +6,9 @@ Dans « Chrome & Néon », la création d'un agent se fait via un système de **
 
 ## 🔴 🔵 🟢 1. Les 3 Composants (Caractéristiques)
 Vous disposez d'un capital de **6 points** à répartir librement dans vos trois composants fondamentaux (minimum 1, maximum 4 par composant) :
-* **🔴 CHAIR (Impact / Corps / Chrome) :** Votre force brute, vos réflexes et votre tolérance aux implants corporels.
-* **🔵 ESPRIT (Logiciel / Logique / Réseau) :** Votre acuité intellectuelle, votre traitement des données et votre aisance informatique.
-* **🟢 ÂME (Intuition / Empathie / Connexion) :** Votre sang-froid, votre charisme et votre résistance face au stress.
+* **🔴 CORPS  :** Votre force brute, vos réflexes et votre tolérance aux implants corporels.
+* **🔵 ESPRIT :** Votre acuité intellectuelle, votre traitement des données et votre aisance informatique.
+* **🟢 ÂME :** Votre sang-froid, votre charisme et votre résistance face au stress.
 
 ---
 
@@ -24,7 +24,7 @@ Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son domain
 
 ## 🖤 3. Jauges Vitales
 Vos jauges dérivent directement de vos choix de création :
-* **Points de Vie (PV - Chair) :** Égaux à $5 + (\text{Score de Chair} \times 2)$. Représente l'intégrité physique de votre enveloppe.
+* **Points de Vie (PV - Corps) :** Égaux à $5 + (\text{Score de Corps} \times 2)$. Représente l'intégrité physique de votre enveloppe.
 * **Jauge de Stress (Mental) :** Égale à $5 + (\text{Score d'Âme} \times 2)$. Représente votre résistance psychologique avant le déclenchement d'une *Cyberpsychose Flash*.
 
 ---
