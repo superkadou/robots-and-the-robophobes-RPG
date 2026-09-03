@@ -5,10 +5,11 @@ Dans « Chrome & Néon », la création d'un agent se fait via un système de **
 ---
 
 ## 🔴 🔵 🟢 1. Les 3 Caractéristiques
-Vous disposez d'un capital de **6 points** à répartir librement dans vos trois caractéristiques fondamentales (minimum 1, maximum 4 par caractéristique) :
+Vous disposez d'un capital de **6 points** à répartir librement dans vos quatre caractéristiques fondamentales (minimum 1, maximum 4 par caractéristique) :
 * **🔴 CORPS  :** Votre force brute, vos réflexes et votre tolérance aux implants corporels.
 * **🔵 ESPRIT :** Votre acuité intellectuelle, votre traitement des données et votre aisance informatique.
 * **🟢 ÂME :** Votre sang-froid, votre charisme et votre résistance face au stress.
+* **⚡ OVERCLOCK :** Votre capacité à pousser votre organisme, vos réflexes ou votre matériel au-delà des limites habituelle.
 
 ---
 
