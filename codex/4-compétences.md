@@ -1,12 +1,10 @@
-# Chapitre 4 — Les Domaines
+# Chapitre 4 — Les Compétences
 
-Si les Composants représentent *la ressource engagée* et les Actions *la méthode employée*, **les Domaines définissent les sujets d'expertise de ton personnage**. Ils mesurent ses connaissances théoriques, sa pratique du terrain, son entraînement technique et sa maîtrise des outils spécifiques à un secteur.
+Si les Caractéristiques représentent *la ressource engagée* et les Actions *la méthode employée*, **les Compétences définissent les sujets d'expertise de ton personnage**. Ils mesurent ses connaissances théoriques, sa pratique du terrain, son entraînement technique et sa maîtrise des outils spécifiques à un secteur.
 
-Il existe dix Domaines distincts, répartis en quatre grands sous-ensembles thématiques. Lorsqu'une action cible un sujet précis, tu ajoutes les dés du Domaine correspondant à ton pool de jeu.
+Il existe dix groupes de Compétences distincts. Lorsqu'une action cible un sujet précis, tu ajoutes les dés du Domaine correspondant à ton pool de jeu.
 
 ---
-
-## 🏃 Filière Physique & Combat
 
 ### 1. VIGUEUR
 **La maîtrise du corps, de la puissance brute et du choc.**
@@ -19,8 +17,6 @@ Il existe dix Domaines distincts, répartis en quatre grands sous-ensembles thé
 * **Usage typique :** Ajuster un tir sous couverture, se glisser derrière un garde, dérober une puce d'accès dans une poche, esquiver une rafale.
 
 ---
-
-## ⚙️ Filière Technique & Matériel
 
 ### 3. MÉCANIQUE
 **L'ingénierie lourde, les structures et l'armement.**
@@ -39,8 +35,6 @@ Il existe dix Domaines distincts, répartis en quatre grands sous-ensembles thé
 
 ---
 
-## 🌐 Filière Systèmes & Réseau
-
 ### 6. TECHNIQUE
 **L'électronique, la chimie et les technologies furtives.**
 * **Sujets couverts :** Électronique de précision, micro-circuits, chimie appliquée, explosifs, fabrication de stimulants, **systèmes de camouflage optique, thermique et électromagnétique**.
@@ -52,8 +46,6 @@ Il existe dix Domaines distincts, répartis en quatre grands sous-ensembles thé
 * **Usage typique :** Contourner le pare-feu d'un serveur corpo, injecter un script d'attaque dans un réseau local, effacer des registres de vidéosurveillance à distance.
 
 ---
-
-## 🧠 Filière Esprit & Société
 
 ### 8. SAVOIR
 **La culture générale, les bases de données et la théorie.**
