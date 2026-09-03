@@ -4,8 +4,8 @@ Dans « Chrome & Néon », la création d'un agent se fait via un système de **
 
 ---
 
-## 🔴 🔵 🟢 1. Les 3 Composants (Caractéristiques)
-Vous disposez d'un capital de **6 points** à répartir librement dans vos trois composants fondamentaux (minimum 1, maximum 4 par composant) :
+## 🔴 🔵 🟢 1. Les 3 Caractéristiques
+Vous disposez d'un capital de **6 points** à répartir librement dans vos trois caractéristiques fondamentales (minimum 1, maximum 4 par caractéristique) :
 * **🔴 CORPS  :** Votre force brute, vos réflexes et votre tolérance aux implants corporels.
 * **🔵 ESPRIT :** Votre acuité intellectuelle, votre traitement des données et votre aisance informatique.
 * **🟢 ÂME :** Votre sang-froid, votre charisme et votre résistance face au stress.
@@ -13,12 +13,22 @@ Vous disposez d'un capital de **6 points** à répartir librement dans vos trois
 ---
 
 ## 🎭 2. Les Domaines de Compétence & L'Archétype
-Pour constituer votre réserve de dés de base lors d'une action ($\text{Composant} + \text{Action} + \text{Compétence}$), vos compétences se répartissent ainsi :
+Pour constituer votre réserve de dés de base lors d'une action ($\text{Caractéristique} + \text{Action} + \text{Compétence}$), vos compétences se répartissent ainsi :
 * **Point d'Action de Base :** Par défaut, tout personnage commence avec **1 point d'Action**.
 * **Budget de Domaines :** Vous disposez d'un capital de **6 points** à répartir dans vos Domaines de compétences
 
 ### Choix de l'Archétype (Spécialisation)
-Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son domaine de prédilection, cimentant votre place dans l'escouade :
+Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son entrainement et ses deux compétences de prédilection, cimentant votre place dans l'escouade :
+* **Le Vétéran**
+* **Le Contrebandier**
+* **Le Bureaucrate**
+* **Le Gendarme**
+* **l'Influenceur**
+* **le Reporter**
+* **l'Indic**
+* **le Hacker**
+* **l'Ingénieur**
+* **le Doc**
 
 ---
 
