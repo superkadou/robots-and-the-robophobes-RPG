@@ -47,15 +47,15 @@ Ces trois zones sont alimentées par les 4 pools de tokens :
 
 Lors de son activation, chaque personnage déroule dans l'ordre les trois étapes suivantes :
 
-### a) Étape de la Réserve de Dés (Dice Pool Step)
+### a) Étape de la Réserve de Dés
 Le joueur assemble sa réserve de dés en additionnant sa Caractéristique, sa Compétence, son Action et les éventuels bonus de ses armes ou logiciels.
 * **Humains (Viande) :** Lançaient leurs dés pour obtenir des résultats bruts de couleur.
 * **Mécas :** Obtiennent des **Jetons Neutres** et appliquent leur **Cascade d'Allocation** obligatoire pour les convertir.
 
-### b) Étape de Relance (Reroll Step)
+### b) Étape de Relance
 Le joueur peut déclencher des capacités spéciales, des programmes de surcharge, dépenser du Stress ou utiliser l'**Overclock** afin de relancer un ou plusieurs dés.
 
-### c) Étape de Placement des Jetons (Place Tokens Step)
+### c) Étape de Placement des Jetons
 Le joueur assigne les jetons générés par son jet d'attaque dans les sections dédiées de sa **Zone de Combat** (son plateau individuel ou de Squad) :
 * **Boîte de Dégâts :** Reçoit les jetons offensifs (Jetons Bleus 🔵).
 * **Boîte de Défense :** Reçoit les jetons de structure et d'armure (Jetons Verts 🟢 et Rouges 🔴).
