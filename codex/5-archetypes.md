@@ -9,7 +9,7 @@ Chaque Archétype apporte :
 
 ---
 
-## ⚔️ 1. LE SOLO
+## ⚔️ 1. LE VETERAN
 *L'expert de la violence applied, de la balistique et de la survie en milieu hostile.*
 
 * **Action Favorite :** $+1$ **AGIR** ou **RÉSISTER**
@@ -18,34 +18,34 @@ Chaque Archétype apporte :
 
 ---
 
-## 🩺 2. LE MEDIC
+## 🩺 2. LE DOC
 *Le spécialiste des fluides, de la traumatologie et de l'intégration bionique.*
 
 * **Action Favorite :** $+1$ **RÉSISTER** ou **PERCEVOIR**
 * **Domaines Favoris :** $+1$ **CYBER**, $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** *Protocole d'Urgence*
+* **Capacité Spéciale :** *Urgence*
 
 ---
 
-## 💻 3. LE NETRUNNER
+## 💻 3. LE HACKER
 *Le fantôme du sous-réseau, maître des payloads et de la guerre algorithmique.*
 
 * **Action Favorite :** $+1$ **AGIR** ou **AFFECTER**
 * **Domaines Favoris :** $+1$ **NET**, $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Intrusion Foudre*
+* **Capacité Spéciale :** *Intrusion*
 
 ---
 
-## 🔧 4. LE TECHIE
+## 🔧 4. L'INGENIEUR
 *Le créateur de sur-mesure, maître de l'électronique et du surcadencement matériel.*
 
 * **Action Favorite :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Domaines Favoris :** $+1$ **TECHNIQUE**, $+1$ **MÉCANIQUE**
-* **Capacité Spéciale :** *Bricolage Flash*
+* **Capacité Spéciale :** *Bricolage*
 
 ---
 
-## 🚗 5. LE NOMAD
+## 🚗 5. LE CONTREBANDIER
 *L'extension organique des machines, des vecteurs lourds et des convois.*
 
 * **Action Favorite :** $+1$ **AGIR** ou **PERCEVOIR**
@@ -54,45 +54,45 @@ Chaque Archétype apporte :
 
 ---
 
-## 🤝 6. LE FIXER
+## 🤝 6. L'INDIC
 *Le courtier d'informations, maître du réseau humain et des contrats du marché noir.*
 
 * **Action Favorite :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Domaines Favoris :** $+1$ **SOCIAL**, $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Réseau d'Ombres*
+* **Capacité Spéciale :** *Réseau*
 
 ---
 
-## 🎸 7. LE ROCKER
+## 🎸 7. L'INFLUENCEUR
 *La voix de la rue, l'émeutier urbain et le maître de la manipulation des masses.*
 
 * **Action Favorite :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Domaines Favoris :** $+1$ **SOCIAL**, $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Charisme Incendiaire*
+* **Capacité Spéciale :** *Charisme*
 
 ---
 
-## 🏢 8. LE CORPO
+## 🏢 8. LE BUREAUCRATE
 *Le requin de la haute finance, maître des ressources institutionnelles et du chantage.*
 
 * **Action Favorite :** $+1$ **AFFECTER** ou **RÉSISTER**
 * **Domaines Favoris :** $+1$ **SAVOIR**, $+1$ **SOCIAL**
-* **Capacité Spéciale :** *Ressources Corporatives*
+* **Capacité Spéciale :** *Ressources*
 
 ---
 
-## 📰 9. LE MEDIA
+## 📰 9. LE REPORTER
 *Le chien de garde du système, capable d'exposer la vérité ou d'orchestrer le chaos informationnel.*
 
 * **Action Favorite :** $+1$ **PERCEVOIR** ou **AFFECTER**
 * **Domaines Favoris :** $+1$ **SAVOIR**, $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** *Diffusion d'Urgence*
+* **Capacité Spéciale :** *Diffusion*
 
 ---
 
-## 🚔 10. LE COP
+## 🚔 10. LE GENDARME
 *Le bras armé de la loi ou de la sécurité privée, maître de la procédure et du profilage.*
 
 * **Action Favorite :** $+1$ **PERCEVOIR** ou **AGIR**
 * **Domaines Favoris :** $+1$ **DEXTÉRITÉ**, $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Profilage Criminel*
+* **Capacité Spéciale :** *Profilage*
