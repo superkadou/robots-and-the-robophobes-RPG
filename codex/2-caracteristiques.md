@@ -6,11 +6,9 @@ Chaque personnage est défini par quatre Caractéristiques. Qu'il s'agisse d'une
 
 ---
 
-## 🔴 CHAIR / CHROME — La Matrice Physique
+## 🔴 CORPS
 
-**Le Composant de la masse, de la matière et du matériel.**
-
-🔴 **CHAIR / CHROME** incarne la puissance musculaire, l'endurance biologique, la vitesse d'exécution neuro-moteur, mais aussi la résistance mécanique du matériel embarqué. C'est la ressource des interventions directes, du sang, de la sueur et de l'acier.
+🔴 **CORPS** incarne la puissance musculaire, l'endurance biologique, la vitesse d'exécution neuro-moteur, mais aussi la résistance mécanique du matériel embarqué. C'est la ressource des interventions directes, du sang, de la sueur et de l'acier.
 
 ### Quand l'engager ?
 On utilise ce Composant dès que l'action repose sur une contrainte ou une dépense d'énergie matérielle. C'est la force brute pour enfoncer une porte blindée, la précision oculaire pour ajuster un tir sous pression, la résistance du corps à une toxine de rue, ou la capacité d'un implant sous-cutané à encaisser une surcharge thermique.
@@ -20,11 +18,9 @@ On utilise ce Composant dès que l'action repose sur une contrainte ou une dépe
 
 ---
 
-## 🔵 ESPRIT / SOFTWARE — La Matrice Logique
+## 🔵 ESPRIT
 
-**Le Composant de la donnée, de l'analyse et de l'algorithme.**
-
-🔵 **ESPRIT / SOFTWARE** représente la puissance de traitement pur, la rigueur méthodologique, la mémoire vive et la capacité à manipuler des flux d'informations complexes. C'est la ressource de la stratégie, du diagnostic rapide et du calcul tactique.
+🔵 **ESPRIT** représente la puissance de traitement pur, la rigueur méthodologique, la mémoire vive et la capacité à manipuler des flux d'informations complexes. C'est la ressource de la stratégie, du diagnostic rapide et du calcul tactique.
 
 ### Quand l'engager ?
 On utilise ce Composant dès que la situation exige d'analyser, de décoder, de concevoir ou d'exécuter une procédure logique. C'est l'analyse en temps réel d'un schéma de sécurité, la rédaction d'un script d'intrusion foudre, l'identification d'une faille dans une structure de données, ou la dissection méthodique d'un traumatisme clinique.
@@ -34,11 +30,9 @@ On utilise ce Composant dès que la situation exige d'analyser, de décoder, de 
 
 ---
 
-## 🟢 ÂME / OPERATING SYSTEM — La Matrice d'Ancrage
+## 🟢 ÂME
 
-**Le Composant du Soi, de la volonté et de la présence.**
-
-🟢 **ÂME / OPERATING SYSTEM** mesure la force de l'identité, le charisme instinctif, la ténacité psychique et l'empreinte que laisse un individu dans le tissu numérique. Dans un monde saturé de simulations, de corps synthétiques et d'I.A. prédatrices, ce Composant représente ce qui empêche un individu d'être dissous ou réécrit par le système.
+🟢 **ÂME** mesure la force de l'identité, le charisme instinctif, la ténacité psychique et l'empreinte que laisse un individu dans le tissu numérique. Dans un monde saturé de simulations, de corps synthétiques et d'I.A. prédatrices, ce Composant représente ce qui empêche un individu d'être dissous ou réécrit par le système.
 
 ### Quand l'engager ?
 On utilise ce Composant dès qu'il s'agit d'imposer sa volonté, de résister à la terreur ou à la manipulation, d'établir un contact humain profond, ou d'interagir directement avec les échos spéculatifs de l'Eïdos. C'est la ressource qui permet de ne pas céder sous la torture, d'inspirer confiance à un contact du marché noir, ou de maintenir sa cohérence mentale face à une anomalie système.
@@ -48,11 +42,9 @@ On utilise ce Composant dès qu'il s'agit d'imposer sa volonté, de résister à
 
 ---
 
-## ⚡ OVERCLOCK / HARDWARE — La Matrice de Surcharge
+## ⚡ OVERCLOCK
 
-**Le Méta-Composant du sous-cadencement, du réflexe ultime et de l'imprévu.**
-
-⚡ **OVERCLOCK / HARDWARE** incarne la tolérance aux stress critiques, la surtension des puces et la capacité d'un agent à forcer les spécifications d'usine de sa propre réalité. Contrairement aux autres Composants qui financent des actions narratives directes, l'Overclock est la ressource tactique de l'imprévu, utilisée pour corriger une défaillance ou reprogrammer l'aléatoire en plein vol.
+⚡ **OVERCLOCK** incarne la tolérance aux stress critiques, la surtension des puces et la capacité d'un agent à forcer les spécifications d'usine de sa propre réalité. Contrairement aux autres Composants qui financent des actions narratives directes, l'Overclock est la ressource tactique de l'imprévu, utilisée pour corriger une défaillance ou reprogrammer l'aléatoire en plein vol.
 
 ### Quand l'engager ?
 On utilise cette réserve lorsque le système flanche, qu'une arme s'enraye ou qu'un jet de dés menace d'envoyer l'escouade au tapis. C'est la poussée d'adrénaline de la dernière chance, le court-circuit délibéré d'un implant pour doubler la cadence de tir, ou la mémoire tampon d'urgence qui absorbe un échec critique avant le crash.
@@ -69,9 +61,8 @@ Dans la majorité des situations, **le joueur est libre de proposer le Composant
 
 > **Exemple : Infiltrer un terminal sécurisé (*Domaine NET*)**
 > 
-> * **En 🔵 ESPRIT / SOFTWARE :** Le personnage cherche une faille logique dans le code du pare-feu et écrit un script sur mesure.
-> * **En 🔴 CHAIR / CHROME :** Le personnage utilise un overclocking de ses puces neuronales pour taper du code à une vitesse physique surhumaine avant la fermeture du port.
-> * **En 🟢 ÂME / OPERATING SYSTEM :** Le personnage force le terminal à reconnaître son empreinte système par la pure puissance d'autorité de sa matrice personnelle.
-> * **En ⚡ OVERCLOCK / HARDWARE :** Le personnage brûle un point de sa réserve tampon pour ignorer une contre-mesure d'urgence et forcer la relance d'un jet d'intrusion manqué.
+> * **En 🔵 ESPRIT :** Le personnage cherche une faille logique dans le code du pare-feu et écrit un script sur mesure.
+> * **En 🔴 CHAIR :** Le personnage utilise un overclocking de ses puces neuronales pour taper du code à une vitesse physique surhumaine avant la fermeture du port.
+> * **En 🟢 ÂME :** Le personnage force le terminal à reconnaître son empreinte système par la pure puissance d'autorité de sa matrice personnelle.
 
 **La contrainte du MJ :** Le Meneur de Jeu conserve le droit d'imposer un Composant précis si la réalité de la situation ne laisse aucune alternative narrative (par exemple, *🔴 CHAIR / CHROME* pour résister à une explosion physique, ou *🔵 ESPRIT / SOFTWARE* pour décoder un langage binaire inconnu).
