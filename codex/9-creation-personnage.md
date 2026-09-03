@@ -1,4 +1,4 @@
-# Chapitre 8 — Création de Personnage
+# Chapitre 9 — Création de Personnage
 
 Dans « Chrome & Néon », la création d'un agent se fait via un système de **budgets de points** inspiré des mécaniques classiques, où chaque choix compte pour définir votre place sur le pavé.
 
