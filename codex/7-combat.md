@@ -14,19 +14,19 @@ Le plateau physique central se divise en trois zones distinctes qui dictent la g
 
 Ces trois zones sont alimentées par les 4 pools de tokens : 
 
-### 🔴 Le Pool Rouge — *La Défense en Attente*
+### 🔴 Le Pool Rouge
 * **Fonctionnement :** Les jetons rouges représentent la pression offensive et les parades d'urgence. 
 * **La Règle du Rebond :** Ce sont des pions de défense en attente. Si les jetons rouges présents dans cette zone ne sont pas consommés ou attribués pour parer une menace avant la fin du tour, **ils se transforment automatiquement en dégâts bruts** encaissés par l'escouade.
 
-### 🟢 Le Pool Vert — *Le Bastion*
+### 🟢 Le Pool Vert 
 * **Fonctionnement :** Les jetons verts sont exclusivement des pions de **défense pure, de blindage et de couverture**. 
 * **Rôle :** Ils servent à absorber les impacts et à protéger les membres de l'équipe exposés. Contrairement aux rouges, un jeton vert inutilisé ne se retourne pas contre l'équipe : il s'évapore simplement en fin de tour.
 
-### 🔵 Le Pool Bleu — *Le Flux d'Attaque*
+### 🔵 Le Pool Bleu
 * **Fonctionnement :** Les jetons bleus constituent la force de frappe directe et l'énergie brute de l'offensive de l'escouade.
 * **Rôle :** En fin de tour (lors de la *Damage Step*), les jetons bleus présents dans cette zone sont convertis en **dégâts directs** infligés aux adversaires. 
 
-### 🖤 Le Pool Noir — *L'Attrition*
+### 🖤 Le Pool Noir 
 * **Fonctionnement :** Le Noir ne provient **jamais** des dés lancés par les joueurs. Il est généré exclusivement par le matériel lourd, le surcadencement (Overclock) ou les traits passifs des Boss et des menaces d'élite.
 * **La Sanction :** Les jetons noirs stockés dans cette zone représentent l'usure du terrain, la fatigue et les dégâts incompressibles. En fin de tour, l'équipe doit obligatoirement les répartir et les payer en **Points de Vie (chair)** ou en **Stress (mental)**.
 
