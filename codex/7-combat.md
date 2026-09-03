@@ -4,7 +4,7 @@ Le combat dans « Chrome & Néon » n'est pas une suite de duels individuels, ma
 
 ---
 
-## 🔴 🟢 🔵 🖤 1. Les 3 Zones et 4 pools du plateau de combat
+## 🔴 🟢 🔵 🖤 1. Les 4 pools et 3 Zones du plateau de combat
 
 Le plateau physique central se divise en trois zones distinctes qui dictent la gestion des jetons :
 
