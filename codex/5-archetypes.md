@@ -5,7 +5,7 @@ Dans ce monde de chrome, de données et de sang, ton **Archétype** ne définit 
 Chaque Archétype apporte :
 * **1 Entrainement :** $+1$ permanent sur une Action (peut dépasser le plafond de création de 3).
 * **2 Expertises :** $+1$ permanent dans deux Compétences (peut dépasser le plafond de création de 2).
-* **1 Capacité spéciale :** Le nom de ta technique exclusive d'Archétype.
+* **1 Capacité spéciale :** La description de la technique exclusive de l'Archétype.
 
 ---
 
@@ -14,7 +14,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **RÉSISTER**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **VIGUEUR**
-* **Capacité Spéciale :** *Sens du Combat*
+* **Capacité Spéciale :** X fois par session de jeu, le
 
 ---
 
@@ -23,7 +23,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **RÉSISTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **CYBER** et $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** *Urgence*
+* **Capacité Spéciale :** X fois par session de jeu, le
 
 ---
 
@@ -32,7 +32,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **AFFECTER**
 * **Expertise :** $+1$ **NET** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Interface*
+* **Capacité Spéciale :** X fois par session de jeu, le
 
 ---
 
@@ -41,8 +41,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Expertise :** $+1$ **TECHNIQUE** et $+1$ **MÉCANIQUE**
-* **Capacité Spéciale :** *Bricolage*
-
+* **Capacité Spéciale :** X fois par session de jeu, le 
 ---
 
 ## 🚗 5. LE CONTREBANDIER
@@ -50,8 +49,7 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Expertise :** $+1$ **PILOTAGE** et $+1$ **MÉCANIQUE**
-* **Capacité Spéciale :** **
-
+* **Capacité Spéciale :** X fois par session de jeu, le contrebandier sait ou trouver l'appui logistique dont le groupe a besoin : véhicule adapté, itinéraire, pièces de rechanges etc
 ---
 
 ## 🤝 6. L'INDIC
@@ -59,8 +57,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Réseau*
-
+* **Capacité Spéciale :** X fois par session de jeu, le 
 ---
 
 ## 🎸 7. L'INFLUENCEUR
@@ -68,8 +65,8 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Charisme*
-
+* **Capacité Spéciale :** X fois par session de jeu, le 
+  
 ---
 
 ## 🏢 8. LE BUREAUCRATE
@@ -77,7 +74,7 @@ Chaque Archétype apporte :
 
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **RÉSISTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **SOCIAL**
-* **Capacité Spéciale :** *Ressources*
+* **Capacité Spéciale :** X fois par session de jeu, le Bureaucrate peux faire jouer ses Faveurs et obtenir des ressources dont le groupe a besoin : matériel, credits non marques, planque discrète, corrompre une personne/organisme etc
 
 ---
 
@@ -86,8 +83,8 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AFFECTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** *Crédibilité*
-
+* **Capacité Spéciale :** X fois par session de jeu, le 
+  
 ---
 
 ## 🚔 10. LE GENDARME
@@ -95,4 +92,4 @@ Chaque Archétype apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AGIR**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** *Autorité*
+* **Capacité Spéciale :** X fois par session de jeu, le
