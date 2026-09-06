@@ -1,3 +1,4 @@
+[TODO]
 # Chapitre 7 — Le Combat
 
 Le combat dans « Chrome & Néon » n'est pas une suite de duels individuels, mais une épreuve collective gérée sur un **plateau de combat** central. La survie de l'équipe dépend de sa capacité à générer, répartir et consommer les jetons de ressources sous la pression de la rue.
@@ -96,4 +97,65 @@ S'il reste des combattants actifs dans les deux factions :
    
 ---
 
+# Chapitre 7 — Le Combat
 
+Le combat dans *Chrome & Néon* est un affrontement tactique, simultané et déterministe. Inspiré de l'architecture des duels stratégiques, il élimine la suprématie de l'initiative brute au profit d'une **phase d'enchères tactiques à l'aveugle** et d'une **résolution par strates**.
+
+Aucune attaque ne bypass la défense : l'Armure protège contre toutes les formes d'agression, et toute frappe expose à une riposte immédiate.
+
+---
+
+## ⚙️ 1. Structure du Round de Combat
+
+Chaque round de combat se déroule en **4 étapes strictes** résolues en parallèle par toutes les factions engagées :
+[ Étape 1 : Lancer & Fixation ] ──> Jet des dés, placement des jetons fixes (🟢🔵🔴).
+[ Étape 2 : Observation ]      ──> Analyse du plateau adverse (Télémétrie).
+[ Étape 3 : Jokers à l'Aveugle]──> Allocation secrète des jetons Jokers (🌟).
+[ Étape 4 : Résolution ]       ──> 🔵 Distance ──> 🔴 Mêlée ──> 🖤 Attrition
+
+---
+
+## 🎲 2. Déroulement des Étapes
+
+### Étape 1 — Lancer & Fixation des Jetons
+Chaque combattant constitue sa réserve de dés ($N$) et effectue son lancer.
+* **Jetons Fixes (🟢, 🔵, 🔴) :** Les jetons issus des faces pures sont immédiatement placés sur la fiche dans leurs jauges respectives (Armure, Distance, Mêlée). Ils sont visibles de tous.
+* **Faces Noires (🖤) :** Chaque face Noire génère immédiatement **1 Jeton d'Attrition** dans la zone d'usure du joueur qui a lancé le dé.
+
+### Étape 2 — Temps d'Observation (Télémétrie)
+Les joueurs disposent d'un temps d'analyse pour évaluer les forces en présence. La répartition des jetons fixes adverses révèle ses intentions brutes (position défensive, préparation d'une salve à distance ou charge au contact).
+
+### Étape 3 — Allocation des Jokers (🌟) à l'Aveugle
+Les faces Jokers (🌟) représentent la flexibilité tactique et la marge de manœuvre.
+* Chaque joueur affecte ses jetons Jokers **face cachée** dans ses différentes jauges (Vert 🟢, Bleu 🔵 ou Rouge 🔴).
+* Une fois les choix arrêtés, tous les joueurs révèlent simultanément l'affectation de leurs Jokers.
+
+---
+
+## ⚔️ 3. Étape 4 — Résolution Simultanée par Strates
+
+Toutes les actions de la même strate se résolvent **en même temps**. Les blessures et l'épuisement subis n'interrompent pas les capacités d'un combattant avant qu'il n'ait pu résoudre sa propre frappe dans la strate concernée.
+
+
+### Strate 1 : Phase Distance & Piratage (🔵 Bleus)
+1. **Échange de Tirs :** Les jetons Bleus (🔵) engagés par les attaquants sont confrontés aux jetons Verts (🟢) de leurs cibles.
+2. **Filtrage par l'Armure :** Chaque jeton Vert (🟢) annule $1$ jeton Bleu (🔵). Le surplus de Bleus dépasse le Cap de l'arme/logiciel et inflige des dégâts nets.
+3. **Consommation de l'Armure :** Les jetons Verts (🟢) dépensés pour bloquer les tirs à distance sont retirés du plateau.
+4. **Tir de Riposte (🔴) :** Un personnage ciblé à distance peut immédiatement dépenser ses jetons Rouges (🔴) pour effectuer un tir de couverture ou appliquer une contre-pression sur l'agresseur.
+
+### Strate 2 : Phase de Mêlée & Impact (🔴 Rouges)
+1. **Assaut au Contact :** Les jetons Rouges (🔴) engagés en attaque sont résolus.
+2. **Filtrage par l'Armure Restante :** L'attaquant affronte les jetons Verts (🟢) que le défenseur a réussi à conserver après la Phase Distance.
+3. **Dégâts & Riposte Mêlée :** Les jetons Rouges non bloqués infligent des blessures directes au HARDWARE ou à la chair. Le défenseur résout simultanément ses propres jetons Rouges de mêlée.
+
+### Strate 3 : Phase d'Attrition & Friction (🖤 Noirs)
+1. **Pression & Surchauffe :** On fait le bilan des jetons d'Attrition accumulés via les faces Noires (🖤) et la Pression système subie.
+2. **Application de l'Usure :** L'Attrition applique des dégâts d'usure directe, du Stress de Résille ou de la détérioration de composants qui ignorent l'Armure.
+3. **Nettoyage :** Tous les jetons non consommés sont défaussés avant le round suivant.
+
+---
+
+## 🪖 4. Règles d'Équipement & Caps
+
+* **Cap d'Arme ($C$) :** Une arme ne peut jamais délivrer plus de $C$ jetons de dégâts (🔵 ou 🔴) par round, quelle que soit la taille de la réserve de dés lancée. Le surplus est perdu ou converti.
+* **Armure Omnidirectionnelle (🟢) :** L'Armure protège contre **toutes** les attaques (Distance et Mêlée). C'est une ressource globale à répartir intelligemment entre les différentes strates du round.
