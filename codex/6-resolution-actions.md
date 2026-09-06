@@ -9,14 +9,16 @@ Dans « Chrome & Néon », chaque action critique où l'échec a des conséquenc
 Lorsqu'un personnage entreprend une action non-conflictuelle (crocheter une serrure, pirater un terminal, franchir un obstacle, analyser une situation), le joueur constitue sa réserve de dés (pool) :
 $$\text{Réserve} = \text{Caractéristique} + \text{Action} + \text{Compétence}$$
 
-Il lance l'ensemble sous forme de **D6** fournis avec le jeu. 
+Il lance l'ensemble sous forme de **D6** fournis avec le jeu ou des **D6** classiques. 
 
 Alternativement des D6 standards peuvent être utilisés avec la correspondance suivante.
 ### Lecture des Faces (Les Couleurs)
 Chaque dé produit un résultat selon sa face, indépendamment de sa valeur numérique :
-* **Faces 1 - 2 :** 🔴 **ROUGE** 
-* **Faces 3 - 4 :** 🟢 **VERT** 
-* **Faces 5 - 6 :** 🔵 **BLEU** 
+* **Face 1  :** 🔴 **ROUGE** 
+* **Face 2 :** 🟢 **VERT** 
+* **Face 3 :** 🔵 **BLEU** 
+** Faces 4-5 :** 🌟 **JOKER**
+* **Face 6 :** 🖤 **NOIRE** 
 
 ---
 
@@ -27,6 +29,8 @@ Pour qu'un dé compte comme un **Succès (S)**, sa couleur doit **impérativemen
 * **Test basé sur 🔴 Corps:** Seuls les dés donnant une face 🔴 **Rouge** comptent comme des succès.
 * **Test basé sur 🔵 Esprit :** Seuls les dés donnant une face 🔵 **Bleue** comptent comme des succès.
 * **Test basé sur 🟢 Âme :** Seuls les dés donnant une face 🟢 **Verte** comptent comme des succès.
+* Dans tous les cas les dés donnant une face 🌟 **Joker** comptent comme un succès.
+* Dans tous les cas les dés donnant une face 🖤 **Noire** retirent un succès.
 
 ---
 
@@ -39,3 +43,4 @@ Le MJ détermine le nombre de Succès requis selon la complexité de l'action :
 
 ### La Coopération de Groupe
 Pour les tâches d'envergure, plusieurs personnages peuvent combiner leurs efforts. Les dés de la bonne couleur obtenus par l'ensemble des participants s'additionnent pour atteindre le Seuil de Réussite (SR) global de la tâche.
+
