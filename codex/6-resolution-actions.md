@@ -17,7 +17,7 @@ Chaque dé produit un résultat selon sa face, indépendamment de sa valeur num�
 * **Face 1  :** 🔴 **ROUGE** 
 * **Face 2 :** 🟢 **VERT** 
 * **Face 3 :** 🔵 **BLEU** 
-** Faces 4-5 :** 🌟 **JOKER**
+* **Faces 4-5 :** 🌟 **JOKER**
 * **Face 6 :** 🖤 **NOIRE** 
 
 ---
