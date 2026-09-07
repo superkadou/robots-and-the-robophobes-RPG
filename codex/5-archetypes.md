@@ -1,6 +1,6 @@
-# Chapitre 5 — Les Métiers
+# Chapitre 5 — Les Archétypes
 
-Dans ce monde de chrome, de données et de sang, ton **Métier** ne définit pas une trajectoire rigide, mais ton **entrainement d'origine** et ta signature tactique sur le terrain. 
+Dans ce monde de chrome, de données et de sang, ton **Archétype** ne définit pas une trajectoire rigide, mais ton **entrainement d'origine** et ta signature tactique sur le terrain. 
 
 Chaque Métier apporte :
 * **1 Entrainement :** $+1$ permanent sur une Action (peut dépasser le plafond de création de 3).
