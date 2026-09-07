@@ -6,6 +6,7 @@ Chaque Métier apporte :
 * **1 Entrainement :** $+1$ permanent sur une Action (peut dépasser le plafond de création de 3).
 * **2 Expertises :** $+1$ permanent dans deux Compétences (peut dépasser le plafond de création de 2).
 * **1 Capacité spéciale :** La description de la technique exclusive du Métier.
+* **Equipement de départ :**  La liste de l'équipement dont dispose le merc au début de son aventure.
 
 ---
 
@@ -14,7 +15,8 @@ Chaque Métier apporte :
 
 * **Entrainement :** $+1$ **AGIR** ou **RÉSISTER**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **VIGUEUR**
-* **Capacité Spéciale :** X fois par session de jeu, le vétéran 
+* **Capacité Spéciale :** X fois par session de jeu, le vétéran
+* **Equipement de départ :**  
 
 ---
 
@@ -24,7 +26,8 @@ Chaque Métier apporte :
 * **Entrainement :** $+1$ **RÉSISTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **CYBER** et $+1$ **TECHNIQUE**
 * **Capacité Spéciale :** X fois par session de jeu, le doc 
-
+* **Equipement de départ :**
+  
 ---
 
 ## 💻 3. LE HACKER
@@ -33,7 +36,8 @@ Chaque Métier apporte :
 * **Entrainement :** $+1$ **AGIR** ou **AFFECTER**
 * **Expertise :** $+1$ **NET** et $+1$ **SAVOIR**
 * **Capacité Spéciale :** X fois par session de jeu, le hacker 
-
+* **Equipement de départ :**
+  
 ---
 
 ## 🔧 4. L'INGENIEUR
@@ -41,7 +45,9 @@ Chaque Métier apporte :
 
 * **Entrainement Favorite :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Expertise :** $+1$ **TECHNIQUE** et $+1$ **MÉCANIQUE**
-* **Capacité Spéciale :** X fois par session de jeu, l'ingénieur 
+* **Capacité Spéciale :** X fois par session de jeu, l'ingénieur
+* * **Equipement de départ :**  
+
 ---
 
 ## 🚗 5. LE CONTREBANDIER
@@ -50,6 +56,8 @@ Chaque Métier apporte :
 * **Entrainement :** $+1$ **AGIR** ou **PERCEVOIR**
 * **Expertise :** $+1$ **PILOTAGE** et $+1$ **MÉCANIQUE**
 * **Capacité Spéciale :** X fois par session de jeu, le contrebandier sait ou trouver l'appui logistique dont le groupe a besoin : véhicule adapté, itinéraire, pièces de rechanges etc
+* **Equipement de départ :**  
+
 ---
 
 ## 🤝 6. L'INDIC
@@ -57,7 +65,9 @@ Chaque Métier apporte :
 
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, l'indic 
+* **Capacité Spéciale :** X fois par session de jeu, l'indic
+* **Equipement de départ :**  
+
 ---
 
 ## 🎸 7. L'INFLUENCEUR
@@ -65,7 +75,8 @@ Chaque Métier apporte :
 
 * **Entrainement :** $+1$ **AFFECTER** ou **PERCEVOIR**
 * **Expertise :** $+1$ **SOCIAL** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, l'influenceur 
+* **Capacité Spéciale :** X fois par session de jeu, l'influenceur
+* **Equipement de départ :**  
   
 ---
 
@@ -75,6 +86,7 @@ Chaque Métier apporte :
 * **Entrainement Favorite :** $+1$ **AFFECTER** ou **RÉSISTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **SOCIAL**
 * **Capacité Spéciale :** X fois par session de jeu, le bureaucrate peux faire jouer ses Faveurs et obtenir des ressources dont le groupe a besoin : matériel, credits non marques, planque discrète, corrompre une personne/organisme etc
+* **Equipement de départ :**  
 
 ---
 
@@ -83,7 +95,8 @@ Chaque Métier apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AFFECTER**
 * **Expertise :** $+1$ **SAVOIR** et $+1$ **TECHNIQUE**
-* **Capacité Spéciale :** X fois par session de jeu, le reporter 
+* **Capacité Spéciale :** X fois par session de jeu, le reporter
+* **Equipement de départ :**  
   
 ---
 
@@ -92,4 +105,5 @@ Chaque Métier apporte :
 
 * **Entrainement :** $+1$ **PERCEVOIR** ou **AGIR**
 * **Expertise :** $+1$ **DEXTÉRITÉ** et $+1$ **SAVOIR**
-* **Capacité Spéciale :** X fois par session de jeu, le gendarme 
+* **Capacité Spéciale :** X fois par session de jeu, le gendarme
+* **Equipement de départ :**  
