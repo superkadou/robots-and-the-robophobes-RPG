@@ -13,7 +13,7 @@ Vous disposez d'un capital de **6 points** à répartir librement dans vos quatr
 
 ---
 
-## 🎭 2. Les Actions, Compétences & le Métier
+## 🎭 2. Les Actions, Compétences & l'Archétype
 Pour constituer votre réserve de dés de base lors d'une action ($\text{Caractéristique} + \text{Action} + \text{Compétence}$), vos compétences se répartissent ainsi :
 * **Point d'Action de Base :** Par défaut, tout personnage commence avec **1 point d'Action**.
 * **Budget de Domaines :** Vous disposez d'un capital de **6 points** à répartir dans vos Domaines de compétences
