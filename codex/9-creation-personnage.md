@@ -4,21 +4,40 @@ Dans « Chrome & Néon », la création d'un agent se fait via un système de **
 
 ---
 
-## 🔴 🔵 🟢 1. Les 3 Caractéristiques
+## 🔴 🔵 🟢 ⚡ 1. Les 4 Caractéristiques
 Vous disposez d'un capital de **6 points** à répartir librement dans vos quatre caractéristiques fondamentales (minimum 1, maximum 4 par caractéristique) :
 * **🔴 CORPS  :** Votre force brute, vos réflexes et votre tolérance aux implants corporels.
 * **🔵 ESPRIT :** Votre acuité intellectuelle, votre traitement des données et votre aisance informatique.
 * **🟢 ÂME :** Votre sang-froid, votre charisme et votre résistance face au stress.
-* **⚡ OVERCLOCK :** Votre capacité à pousser votre organisme, vos réflexes ou votre matériel au-delà des limites habituelle.
-
+* **⚡ OVERDRIVE :** Votre capacité à pousser votre organisme, vos réflexes ou votre matériel au-delà des limites habituelle.
+Overdrive est une meta caractéristique. 
 ---
 
-## 🎭 2. Les Actions, Compétences & l'Archétype
-Pour constituer votre réserve de dés de base lors d'une action ($\text{Caractéristique} + \text{Action} + \text{Compétence}$), vos compétences se répartissent ainsi :
+## 🎯 2. Les Actions
 * **Point d'Action de Base :** Par défaut, tout personnage commence avec **1 point d'Action**.
-* **Budget de Domaines :** Vous disposez d'un capital de **6 points** à répartir dans vos Domaines de compétences
+les 4 actions sont :
+* **Percevoir**
+* **Agir**
+* **Affecter**
+* **Resister**
 
-### Choix du Métier
+---
+## 🎭 3. Les Compétences & l'Archétype
+
+### Compétences
+Répartissez **6 points** dans les différentes Compétences à concurrence de 3 maximum par compétence :
+* ** Vigueur**
+* ** Dextérité**
+* ** Mécanique**
+* ** Pilotage**
+* ** Cyber**
+* ** Technique**
+* ** Data**
+* ** Savoir** 
+* ** Social**
+* ** Mysticisme**
+  
+### Choix de l'archétype
 Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son entrainement et ses deux compétences de prédilection, cimentant votre place dans l'escouade :
 * **Le Vétéran**
 * **Le Contrebandier**
@@ -32,14 +51,20 @@ Choisissez un rôle qui vous octroie un bonus d'expertise majeur dans son entrai
 * **le Doc**
 
 ---
+## 4. Constitution du pool de résolution des actions
 
-## 🖤 3. Jauges Vitales
+Pour toute action ou attaque, votre réserve de dés lancés ($N$) se calcule ainsi :
+
+$$\text{Réserve (N)} = \text{Caractéristique} + \text{Action entreprise} + \text{Compétence} + \text{Bonus éventuels}$$
+
+---
+## 🖤 5. Jauges Vitales
 Vos jauges dérivent directement de vos choix de création :
 * **Points de Vie (PV - Corps) :** Égaux à $5 + (\text{Score de Corps} \times 2)$. Représente l'intégrité physique de votre enveloppe.
 * **Jauge de Stress (Mental) :** Égale à $5 + (\text{Score d'Âme} \times 2)$. Représente votre résistance psychologique avant le déclenchement d'une *Cyberpsychose Flash*.
 
 ---
 
-## 🔌 4. Équipement & Chrome Initial
+## 🔌 6. Équipement & Chrome Initial
 * **Dotation de départ :** Un équipement standard lié à votre profil (arme de poing, terminal, outils).
 * **Marge de Chrome :** Votre corps accepte vos premiers implants mineurs sans surcharger votre jauge de Stress initiale.
