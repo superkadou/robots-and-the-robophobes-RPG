@@ -20,7 +20,7 @@ Chaque Métier apporte :
 
 ---
 
-## 🩺 2. LE DOC
+## 🩺 2. LE MEDIC
 *Le spécialiste des fluides, de la traumatologie et de l'intégration bionique.*
 
 * **Entrainement :** $+1$ **RÉSISTER** ou **PERCEVOIR**
