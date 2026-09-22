@@ -108,10 +108,10 @@ Aucune attaque ne bypass la défense : l'Armure protège contre toutes les forme
 ## ⚙️ 1. Structure du Round de Combat
 
 Chaque round de combat se déroule en **4 étapes strictes** résolues en parallèle par toutes les factions engagées :
-[ Étape 1 : Lancer & Fixation ] ──> Jet des dés, placement des jetons fixes (🟢🔵🔴).
-[ Étape 2 : Observation ]      ──> Analyse du plateau adverse (Télémétrie).
-[ Étape 3 : Jokers à l'Aveugle]──> Allocation secrète des jetons Jokers (🌟).
-[ Étape 4 : Résolution ]       ──> 🔵 Distance ──> 🔴 Mêlée ──> 🖤 Attrition
+- [ Étape 1 : Lancer & Fixation ] ──> Jet des dés, placement des jetons fixes (🟢🔵🔴).
+-  [ Étape 2 : Observation ]      ──> Analyse du plateau adverse (Télémétrie).
+- [ Étape 3 : Jokers à l'Aveugle]──> Allocation secrète des jetons Jokers (🌟).
+- [ Étape 4 : Résolution ]       ──> 🔵 Distance ──> 🔴 Mêlée ──> 🖤 Attrition
 
 ---
 
@@ -122,7 +122,7 @@ Chaque combattant constitue sa réserve de dés ($N$) et effectue son lancer.
 * **Jetons Fixes (🟢, 🔵, 🔴) :** Les jetons issus des faces pures sont immédiatement placés sur la fiche dans leurs jauges respectives (Armure, Distance, Mêlée). Ils sont visibles de tous.
 * **Faces Noires (🖤) :** Chaque face Noire génère immédiatement **1 Jeton d'Attrition** dans la zone d'usure du joueur qui a lancé le dé.
 
-### Étape 2 — Temps d'Observation (Télémétrie)
+### Étape 2 — Temps d'Observation 
 Les joueurs disposent d'un temps d'analyse pour évaluer les forces en présence. La répartition des jetons fixes adverses révèle ses intentions brutes (position défensive, préparation d'une salve à distance ou charge au contact).
 
 ### Étape 3 — Allocation des Jokers (🌟) à l'Aveugle
@@ -132,7 +132,7 @@ Les faces Jokers (🌟) représentent la flexibilité tactique et la marge de ma
 
 ---
 
-## ⚔️ 3. Étape 4 — Résolution Simultanée par Strates
+## ⚔️ 3. Étape 4 — Résolution simultanée par strates
 
 Toutes les actions de la même strate se résolvent **en même temps**. Les blessures et l'épuisement subis n'interrompent pas les capacités d'un combattant avant qu'il n'ait pu résoudre sa propre frappe dans la strate concernée.
 
