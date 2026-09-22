@@ -40,11 +40,11 @@ Les jetons noirs ne sont pas générés par des lancés de Dés.
 ## 🔄 Structure Générale du Round
 
 1. **Alternance des Phases d'Attaque :** Chaque personnage (attaquant comme défenseur) doit résoudre une Phase d'Attaque individuelle par round. L'ordre d'itération alterne strictement entre les deux factions :
-   * Un personnage de la **Faction A** résout sa Phase d'Attaque.
-   * Un personnage de la **Faction B** résout sa Phase d'Attaque.
-   * *Répéter l'alternance jusqu'à ce que tous les combattants aient agi.*
-   *(Chaque faction choisit librement l'ordre d'activation interne de ses membres).*
-2. **Phase de Défense Simultanée :** Une fois l'intégralité des Phases d'Attaque épuisée, les deux factions résolvent la Phase de Défense ensemble.
+    * Un personnage de la **Faction A** résout sa Phase d'Attaque.
+     * Un personnage de la **Faction B** résout sa Phase d'Attaque.
+     * *Répéter l'alternance jusqu'à ce que tous les combattants aient agi.*
+     *(Chaque faction choisit librement l'ordre d'activation interne de ses membres).*
+3. **Phase de Défense Simultanée :** Une fois l'intégralité des Phases d'Attaque épuisée, les deux factions résolvent la Phase de Défense ensemble.
 
 ---
 
