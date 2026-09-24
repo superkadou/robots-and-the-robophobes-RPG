@@ -19,6 +19,21 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 
 ## [Codex](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/table-des-matieres.md)
 
+Tables des matières
+
+1. [Présentation](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/1-presentation.md)
+2. [Caractéristiques](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/2-caracteristiques.md)
+3. [Actions](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/3-actions.md)
+4. [Compétences](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/4-competences.md)
+5. [Archétypes](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/5-archetypes.md)
+6. [Résolution des actions](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/6-resolution-actions.md)
+7. [Combat](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/7-combat.md)
+8. [Soins et santé](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/8-sante-soins.md)
+9. [Création de personnage](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/9-creation-personnage.md)
+10. [Chrome](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/10-chrome.md)
+11. [Matériel](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/11-stuff.md)
+12. [Expérience](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/12-XP.md)
+13. [Droïds et mécas](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/13-mecas.md)
 
 ## Note de l’Auteur : Anachronismes et Licence Artistique
 
