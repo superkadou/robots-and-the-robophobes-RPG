@@ -17,10 +17,7 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 
 ## [Crédits](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/CREDITS.md)
 
-## [Codex](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/table-des-matieres.md)
-
-Tables des matières
-
+## Codex : Tables des matières
 1. [Présentation](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/1-presentation.md)
 2. [Caractéristiques](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/2-caracteristiques.md)
 3. [Actions](https://github.com/superkadou/robots-and-the-robophobes-RPG/blob/main/codex/3-actions.md)
